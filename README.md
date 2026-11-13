@@ -33,7 +33,7 @@ Most LLM tooling, examples and evaluation habits assume English. Put a model in 
 
 ## About
 
-Written by **Ido Guy**, AI Engineer. I build native-quality customer-facing AI in Hebrew and Arabic.
+Written by **Ido Guy**, AI & Automation Engineer. I design end-to-end AI solutions for sales and operations teams in Hebrew- and Arabic-speaking markets.
 
 [LinkedIn](https://www.linkedin.com/in/ido-guy) · Also: [WhatsApp AI Agent Design](https://github.com/123idog/whatsapp-ai-agent-design) · [LLM Evaluation in Production](https://github.com/123idog/llm-evaluation-in-production) · [n8n Production Playbook](https://github.com/123idog/n8n-production-playbook)
 
